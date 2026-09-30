@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Simulador de avanço e fertirrigação",
+  "short_name": "Avanço",
+  "description": "Tempo de avanço da água e do fertilizante na rede de irrigação, com animação, linha do tempo e horários de cada etapa.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EEF1EC",
+  "theme_color": "#1E7BC6",
+  "categories": ["utilities", "productivity"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
